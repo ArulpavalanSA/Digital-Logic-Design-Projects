@@ -1,4 +1,5 @@
 🔐🧮 Digital Logic Design Projects – Function Calculator, 4-Bit Counter, and Digital Lock System
+
 📂 Repository Description:
 This repository contains the simulation and documentation of three digital logic design projects completed as part of my preliminary induction tasks. All circuits are designed using digital logic components like logic gates, adders, multiplexers, and flip-flops. Simulation was done using Digital Logic Sim by Sebastian Lague /Multisim.
 
